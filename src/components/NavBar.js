@@ -50,37 +50,37 @@ export default class NavBar extends Component {
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
               <ul className="navbar-nav me-auto mb-2 mb-lg-0" style={{ fontSize: 'larger' }}>
                 <li className="nav-item">
-                  <a className="nav-link mx-3" aria-current="page" href="/">
+                  <a className="nav-link mx-3 font-weight-bold" aria-current="page" href="/">
                     General
                   </a>
                 </li>
-                <li className="nav-item mx-3">
-                  <a className="nav-link" href="/Sports">
+                <li className="nav-item mx-3 ">
+                  <a className="nav-link font-weight-bold " href="/Sports">
                     Sports
                   </a>
                 </li>
                 <li className="nav-item mx-3">
-                  <a className="nav-link" href="/Business">
+                  <a className="nav-link font-weight-bold" href="/Business">
                     Business
                   </a>
                 </li>
                 <li className="nav-item mx-3">
-                  <a className="nav-link" href="/Entertainment">
+                  <a className="nav-link font-weight-bold" href="/Entertainment">
                     Entertainment
                   </a>
                 </li>
                 <li className="nav-item mx-3">
-                  <a className="nav-link" href="/Health">
+                  <a className="nav-link font-weight-bold" href="/Health" >
                     Health
                   </a>
                 </li>
                 <li className="nav-item mx-3">
-                  <a className="nav-link" href="/Science">
+                  <a className="nav-link font-weight-bold" href="/Science">
                     Science
                   </a>
                 </li>
                 <li className="nav-item mx-3">
-                  <a className="nav-link" href="/Technology">
+                  <a className="nav-link font-weight-bold" href="/Technology">
                     Technology
                   </a>
                 </li>
